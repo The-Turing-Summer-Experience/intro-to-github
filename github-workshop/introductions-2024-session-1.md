@@ -45,7 +45,10 @@ Group 10 (case study name):
 Group 11 (case study name):
 
 
-Group 12 (case study name):
+Group 12 (Linux):
+1. GNU/GPL
+2. More people are likely to use it as it is free, allowing many collaborators.
+3. Digital Ocean
 
 
 Group 13 (case study name):
