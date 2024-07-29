@@ -16,7 +16,10 @@ Group 1 (case study 1):
 
 
 Group 2 (case study 2):
-
+Arduino
+License - CC-BY-SA
+How does it benefit? Allows for more customisation to a company's needs.
+Platform of Code? Their own website
 
 Group 3 (case study 3):
 
