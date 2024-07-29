@@ -13,7 +13,9 @@ Please refer to the checkin Issue that we commented on in Exercise 1 to find you
 ## Question: What have you learned about your case study:
 
 Group 1 (case study 1):
-
+License: CC BY-SA
+Benefits: Means linux can be stable, secure, and flexible.
+Platform: linux.org
 
 Group 2 (case study 2):
 
