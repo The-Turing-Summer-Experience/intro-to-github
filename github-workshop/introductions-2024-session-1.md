@@ -56,7 +56,10 @@ open source AI
 Group 11 (case study name):
 
 
-Group 12 (case study name):
+Group 12 (case study name): Linux
+1.GNU/GPL
+2. More people are likely to use it as it is free, allowing many collaborators.
+3. GitHub
 
 
 Group 13 (Case Study Name: Linux):
