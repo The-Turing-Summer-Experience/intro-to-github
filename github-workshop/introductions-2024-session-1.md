@@ -63,10 +63,10 @@ Group 10 (case study 5): open source AI
 2. Benefits:
 3. Platform: 
 
-Group 11 (case study 1):
-1. License: 
-2. Benefits:
-3. Platform: 
+Group 11 (case study 1): Linux
+1. License: GNU General Public License 2.0 (Open Source)
+2. Benefits: Open source means that any issues can be diagnosed within the software by any member of the public. What stands out about this license is that all changes must be tracked and dated to ensure that rollbacks can be done effectively.
+3. Platform: [Linux License Info](https://www.kernel.org/doc/html/latest/process/license-rules.html)
 
 
 Group 12 (case study 2):
