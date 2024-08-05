@@ -43,9 +43,9 @@ Group 6 (case study 1): Linux
 3. Platform: Github
 
 Group 7 (case study name): Arduino
-1. License: 
-2. Benefits:
-3. Platform: 
+1. License: GNU PUBLIC LICENSE 
+2. Benefits: GUARANTEES USERS THE ABILITY TO RUN, STUDY, SHARE AND MODIFY. CAN BE USED AS A TOOL TO CREATE PROPRIETARY SOFTWARE. 
+3. Platform: GITHUB
 
 Group 8 (case study 3): The Turing Way
 1. License: 
