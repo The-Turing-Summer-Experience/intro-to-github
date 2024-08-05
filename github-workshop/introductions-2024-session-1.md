@@ -33,9 +33,9 @@ Group 4 (case study 4): Open Source Investigation (OSINT)
 3. Platform: *GitHub*
 
 Group 5 (case study 5): Open Source AI
-1. License: 
-2. Benefits:
-3. Platform: 
+1. License: Creative Commons Attributions 4.0 License
+2. Benefits:Freely available for anyone to use, modify, and distribute. promotes collaboration, transparency and innovation in the development of Ai technologies.
+4. Platform: various website
 
 Group 6 (case study 1): Linux
 1. License: [GNU General Public License](https://www.gnu.org/licenses/gpl-3.0.en.html#license-text)
