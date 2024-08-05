@@ -18,9 +18,9 @@ Group 1 (case study 1): Linux
 3. Platform: 
 
 Group 2 (case study 2): Arduino
-1. License: 
-2. Benefits:
-3. Platform: 
+1. License: CC-BY-SA
+2. Benefits: Get credit for their work, can sell their products and people who use it can't copyright
+3. Platform: cross-platform
 
 Group 3 (case study 3): The Turing way
 1. License: Open source. Documents and data under CC-BY, Software under MIT.
