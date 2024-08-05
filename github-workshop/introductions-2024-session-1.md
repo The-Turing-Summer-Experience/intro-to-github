@@ -59,9 +59,9 @@ Group 9 (case study 4): Open Source Investigation (OSINT)
 
 
 Group 10 (case study 5): open source AI
-1. License: 
-2. Benefits:
-3. Platform: 
+1. License: Open source
+2. Benefits: anyone can use it. Well documented.
+3. Platform: https://opensource.org/deepdive#cfp
 
 Group 11 (case study 1):
 1. License: 
