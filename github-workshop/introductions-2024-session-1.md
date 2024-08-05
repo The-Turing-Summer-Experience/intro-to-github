@@ -13,9 +13,9 @@ Please refer to the checkin Issue that we commented on in Exercise 1 to find you
 ## Question: What have you learned about your case study:
 
 Group 1 (case study 1): Linux
-1. License: 
-2. Benefits:
-3. Platform: 
+1. License: Open Source, GNU General Public License (GPL)
+2. Benefits: This license allows the growth of knowledge by allowing everybody to modify programs. It is stable and safe.
+3. Platform: kernel.org
 
 Group 2 (case study 2): Arduino
 1. License: 
