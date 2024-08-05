@@ -63,10 +63,10 @@ Group 10 (case study 5): open source AI
 2. Benefits:
 3. Platform: 
 
-Group 11 (case study 1):
-1. License: 
-2. Benefits:
-3. Platform: 
+Group 11 (case study 1): Linux
+1. License: GNU General Public License
+2. Benefits: Secure, flexible, making it popular for servers and many devices
+3. Platform: Linux
 
 
 Group 12 (case study 2):
