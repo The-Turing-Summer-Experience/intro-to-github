@@ -52,11 +52,14 @@ Group 8 (case study 3): The Turing Way
 2. Benefits:
 3. Platform: 
 
-Group 9 (case study 4): Open Source Investigation (OSINT)
-1. License: 
-2. Benefits:
-3. Platform: 
-
+### Group 9 (case study 4): Open Source Investigation (OSINT)
+#### 1. License: 
+       Open Source   
+#### 2. Benefits:
+   * Vast amount of information available due to organisations collaborating information.
+   * No legal issues
+#### 3. Platform:
+  Any
 
 Group 10 (case study 5): open source AI
 1. License: 
