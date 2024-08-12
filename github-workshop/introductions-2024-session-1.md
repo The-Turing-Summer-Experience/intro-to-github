@@ -92,7 +92,7 @@ Group 15 (case study 5): Open source AI
 
 Group 16 (case study 1): Linux
 1. License: GNU General Public License (GPL)
-2. Benefits: allows anybody to redistribute, and even sell, a product covered by the GPL, as long as the recipient is allowed to rebuild an exact copy of the binary files from source.
+2. Benefits: allows anybody to redistribute, and even sell, a product covered by the GPL, as long as the recipient is allowed to rebuild an exact copy of the binary files from source
 3. Platform: Supported on almost every major computer system, e.g., x86, ARM, SPARC
 
 
