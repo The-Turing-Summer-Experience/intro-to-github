@@ -63,9 +63,9 @@ Group 10 (case study 5): Open source AI
 3. Platform: 
 
 Group 11 (case study 1): Linux
-1. License: 
-2. Benefits: 
-3. Platform: 
+1. License: Open Source - free to use
+2. Benefits:Used for servers/personal devices specifically computers, this allows for each user to cater to their specific needs.
+3. Platform: Android,Amazon Web Services(AWS), Ubuntu
 
 Group 12 (case study 2): Arduino
 1. License: 
