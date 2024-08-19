@@ -20,7 +20,8 @@ Group 1 (case study 1): Linux
 Group 2 (case study 2): Arduino
 1. License:
 2. Benefits: 
-3. Platform: 
+3. Platform: Arduino IDE 2.0 is hosted on Github 
+   https://github.com/arduino/arduino-ide
 
 Group 3 (case study 3): The Turing Way
 1. License: 
