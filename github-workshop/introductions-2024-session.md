@@ -29,7 +29,7 @@ Group 3 (case study 3): The Turing Way
 
 Group 4 (case study 4): Open Source Investigation (OSINT)
 1. License: open source
-2. Benefits: freedom of information 
+2. Benefits: freedom of      information 
 3. Platform: variety of platforms 
 
 Group 5 (case study 5): 
