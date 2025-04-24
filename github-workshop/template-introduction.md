@@ -13,7 +13,7 @@ Please refer to the checkin Issue that we commented on in Exercise 1 to find you
 ## Question: What have you learned about your case study:
 
 Group 1 (case study 1): Linux
-1. License: Open license maybe it has MIT
+1. License: Open license
 2. Benefits: A lot of people can use the operating system
 3. Platform: Github
 
