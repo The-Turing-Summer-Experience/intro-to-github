@@ -53,8 +53,8 @@ Group 8 (case study 3): The Turing Way
 3. Platform: GitHub
 
 Group 9 (case study 4): Open Source Investigation (OSINT)
-1. License: 
-2. Benefits:
+1. License: Open source
+2. Benefits: Can help people hold themselves accountable by uncovering violations of human rights
 3. Platform: 
 
 Group 10 (case study 5): open source AI
