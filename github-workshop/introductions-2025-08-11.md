@@ -38,9 +38,9 @@ Group 5 (case study 5):
 4. Platform:
 
 Group 6 (case study 1): Linux
-1. License: 
-2. Benefits:
-3. Platform: 
+1. License: General Public Licence, Creative Commons Licence
+2. Benefits: GNU - Provides users the freedom to run, study, modify and share software, CC - control over usage of software and distribution
+3. Platform: Kernel.org on the World Wide Web
 
 Group 7 (case study 2): Arduino
 1. License: 
