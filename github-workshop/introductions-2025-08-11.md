@@ -53,7 +53,7 @@ Group 8 (case study 3): The Turing Way
 3. Platform: 
 
 Group 9 (case study 4): Open Source Investigation (OSINT)
-1. License: 
+1. License: This will cause a conflict
 2. Benefits:
 3. Platform: 
 
