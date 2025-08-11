@@ -43,9 +43,9 @@ Group 6 (case study 1): Linux
 3. Platform: 
 
 Group 7 (case study 2): Arduino
-1. License: 
-2. Benefits:
-3. Platform: 
+1. License: open license: have to credit Arduino and release their design under the same license: GNU GENERAL PUBLIC LICENSE, GPLv2, MIT and BSD-3
+2. Benefits: advertisement
+3. Platform: GitHub
 
 Group 8 (case study 3): The Turing Way
 1. License: 
