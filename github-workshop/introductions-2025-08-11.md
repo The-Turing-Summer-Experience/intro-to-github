@@ -32,10 +32,10 @@ Group 4 (case study 4): Open Source Investigation (OSINT)
 2. Benefits: Open source, allows for transparency of data use. Good for privacy.
 3. Platform: Github
 
-Group 5 (case study 5): 
-1. License: 
-2. Benefits:
-4. Platform:
+Group 5 (Case Study 5): Open Source AI 
+1. License: Open Source (TAX ID = 91-2037395)
+2. Benefits: Free to use, Allows more users to contribute, Community Support, Faster Development, Users may modify to their own liking.  
+3. Platform: OpenAI Developer platform meaning they have their own Platform. 
 
 Group 6 (case study 1): Linux
 1. License: General Public Licence, Creative Commons Licence
