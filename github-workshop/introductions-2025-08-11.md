@@ -48,9 +48,9 @@ Group 7 (case study 2): Arduino
 3. Platform: 
 
 Group 8 (case study 3): The Turing Way
-1. License: 
-2. Benefits:
-3. Platform: 
+1. License: open-source (CC)
+2. Benefits: Collaborative research and sharing of resources
+3. Platform: GitHub
 
 Group 9 (case study 4): Open Source Investigation (OSINT)
 1. License: 
