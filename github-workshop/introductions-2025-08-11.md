@@ -18,9 +18,9 @@ Group 1 (case study 1): Linux
 3. Platform: 
 
 Group 2 (case study 2): Arduino
-1. License: 
-2. Benefits: 
-3. Platform: 
+1. License: open-source
+2. Benefits: easier to use and less cost for the person using it.
+3. 3. Platform: github
 
 Group 3 (case study 3): The Turing Way
 1. License: 
