@@ -18,9 +18,9 @@ Group 1 (case study 1): Linux (https://www.linux.org/)
 3. Platform:
 
 Group 2 (case study 2): Arduino (https://www.arduino.cc/)
-1. License: 
-2. Benefits:
-3. Platform:
+1. License: It is an open source under Creaive Commons Attributions Share - alike (CC-BY-SA) liscence, and includes a free use of hardware and software within companies organisations. However, you can not use the Arduino trademark in your design files or on the product itself as this would be a trademark infringement.
+2. Benefits: Ability to customise hardware and software.
+3. Platform: RDO IDE
 
 Group 3 (case study 3): The Turing Way (https://book.the-turing-way.org/)
 1. License: 
