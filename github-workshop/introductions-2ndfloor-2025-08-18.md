@@ -41,7 +41,7 @@ Group 5 (case study 5): Android (https://www.android-x86.org/)
 Group 6 (case study 6): Brave (https://brave.com/)
 1. License: MPL 2.0 
 2. Benefits:
-3. Platform:
+3. Platform: GitHub
    
 Bonus:
 Once you've finished with your case study, take a look at these broader open source concepts.  
