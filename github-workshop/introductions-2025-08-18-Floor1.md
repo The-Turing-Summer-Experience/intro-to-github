@@ -93,11 +93,11 @@ Benefits:
 Platform:
 ### Group 12 (case study 2): Arduino (https://www.arduino.cc/)
 
-License:
+License: Open Source    
 
-Benefits:
+Benefits: Free to edit, encourages collaoration and innovation, community support (people helping each other out to make the code the best as possible)
 
-Platform:
+Platform: Arduino IDE 2.3.6  (also store some of their code on Github/Visual Studio Code)
 ### Group 13 (case study 3): The Turing Way (https://book.the-turing-way.org/)
 
 License:
