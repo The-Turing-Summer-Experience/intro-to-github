@@ -12,90 +12,35 @@ Please refer to the checkin Issue that we commented on in Exercise 1 to find you
 
 ## Question: What have you learned about your case study:
 
-Group 1 (case study 1): Linux
-1. License: Open license maybe it has MIT
-2. Benefits: A lot of people can use the operating system
-3. Platform: Github
-
-Group 2 (case study 2): Arduino
-1. License: 
-2. Benefits: 
-3. Platform: 
-
-Group 3 (case study 3): The Turing Way
+Group 1 (case study 1): Linux (https://www.linux.org/)
 1. License: 
 2. Benefits:
-3. Platform: 
+3. Platform:
 
-Group 4 (case study 4): Open Source Investigation (OSINT)
+Group 2 (case study 2): Arduino (https://www.arduino.cc/)
 1. License: 
 2. Benefits:
-3. Platform: 
+3. Platform:
 
-Group 5 (case study 5): 
+Group 3 (case study 3): The Turing Way (https://book.the-turing-way.org/)
 1. License: 
 2. Benefits:
-4. Platform:
+3. Platform:
 
-
-Group 6 (case study 1): Linux
+Group 4 (case study 4): Firefox (https://www.firefox.com/)
 1. License: 
 2. Benefits:
-3. Platform: 
+3. Platform:
 
-Group 7 (case study name 2): Arduino
+Group 5 (case study 5): Android (https://www.android-x86.org/)
 1. License: 
 2. Benefits:
-3. Platform: 
+3. Platform:
 
-Group 8 (case study 3): The Turing Way
-1. License: 
-2. Benefits:
-3. Platform: 
+Bonus:
+Once you've finished with your case study, take a look at these broader open source concepts.
+If you want to, see if you can find the license type and the benefits an open source AI tool uses.
 
-Group 9 (case study 4): Open Source Investigation (OSINT)
-1. License: 
-2. Benefits:
-3. Platform: 
-
-Group 10 (case study 5): open source AI
-1. License: 
-2. Benefits:
-3. Platform: 
-
-Group 11 (case study 1): Linux
-1. License: 
-2. Benefits: 
-3. Platform: 
-
-Group 12 (case study 2): Arduino
-1. License: 
-2. Benefits:
-3. Platform: 
-
-Group 13 (case study 3): The Turing Way
-1. License: 
-2. Benefits:
-3. Platform: 
-
-Group 14 (case study 4): Open Source Investigation (OSINT)
-1. License: 
-2. Benefits:
-3. Platform: 
-
-Group 15 (case study 5): Open source AI
-1. License: 
-2. Benefits:
-3. Platform: 
-
-Group 16 (case study 1): Linux
-1. License: 
-2. Benefits:
-3. Platform: 
-
-Group 17 (case study 2): 
-1. License: 
-2. Benefits:
-3. Platform: 
-
-
+Open Source Investigation (OSINT) (https://en.wikipedia.org/wiki/Open-source_intelligence)
+Open Source AI (https://github.com/thebigbone/opensourceAI)
+Farama Foundation (https://github.com/Farama-Foundation)
