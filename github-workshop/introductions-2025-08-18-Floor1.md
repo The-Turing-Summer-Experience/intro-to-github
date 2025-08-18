@@ -12,121 +12,42 @@ What platform do they host their code on?
 
 ## Question: What have you learned about your case study:
 
-### Group 1 (case study 1): Linux
+### Group 1 (case study 1): Linux (https://www.linux.org/)
 License: Open license maybe it has MIT
 
 Benefits: A lot of people can use the operating system
 
 Platform: Github
 
-### Group 2 (case study 2): Arduino
+### Group 2 (case study 2): Arduino (https://www.arduino.cc/)
 License:
 
 Benefits:
 
 Platform:
 
-### Group 3 (case study 3): The Turing Way
+### Group 3 (case study 3): The Turing Way (https://book.the-turing-way.org/)
 License:
 
 Benefits:
 
 Platform:
 
-### Group 4 (case study 4): Open Source Investigation (OSINT)
+### Group 4 (case study 4): Firefox (https://www.firefox.com/)
 License:
 
 Benefits:
 
 Platform:
 
-### Group 5 (case study 5): Open Source AI
+### Group 5 (case study 5): Android (https://www.android-x86.org/)
 
 License:
 
 Benefits:
 
 Platform:
-### Group 6 (case study 1): Linux
-
-License:
-
-Benefits:
-
-Platform:
-
-
-### Group 7 (case study name 2): Arduino
-
-License:
-
-Benefits:
-
-Platform:
-### Group 8 (case study 3): The Turing Way
-
-License:
-
-Benefits:
-
-Platform:
-### Group 9 (case study 4): Open Source Investigation (OSINT)
-
-License:
-
-Benefits:
-
-Platform:
-### Group 10 (case study 5): Open Source AI
-
-License:
-
-Benefits:
-
-Platform:
-### Group 11 (case study 1): Linux
-
-License:
-
-Benefits:
-
-Platform:
-### Group 12 (case study 2): Arduino
-
-License:
-
-Benefits:
-
-Platform:
-### Group 13 (case study 3): The Turing Way
-
-License:
-
-Benefits:
-
-Platform:
-### Group 14 (case study 4): Open Source Investigation (OSINT)
-
-License:
-
-Benefits:
-
-Platform:
-### Group 15 (case study 5): Open Source AI
-
-License:
-
-Benefits:
-
-Platform:
-### Group 16 (case study 1): Linux
-
-License:
-
-Benefits:
-
-Platform:
-### Group 17 (case study 2): Arduino
+### Group 6 (case study 1): Linux (https://www.linux.org/)
 
 License:
 
@@ -134,9 +55,91 @@ Benefits:
 
 Platform:
 
-### Group 18 (case study 3): The Turing Way
+
+### Group 7 (case study name 2): Arduino (https://www.arduino.cc/)
+
 License:
 
 Benefits:
 
 Platform:
+### Group 8 (case study 3): The Turing Way (https://book.the-turing-way.org/)
+
+License:
+
+Benefits:
+
+Platform:
+### Group 9 (case study 4): Firefox (https://www.firefox.com/)
+
+License:
+
+Benefits:
+
+Platform:
+### Group 10 (case study 5): Android (https://www.android-x86.org/)
+
+License:
+
+Benefits:
+
+Platform:
+### Group 11 (case study 1): Linux (https://www.linux.org/)
+
+License:
+
+Benefits:
+
+Platform:
+### Group 12 (case study 2): Arduino (https://www.arduino.cc/)
+
+License:
+
+Benefits:
+
+Platform:
+### Group 13 (case study 3): The Turing Way (https://book.the-turing-way.org/)
+
+License:
+
+Benefits:
+
+Platform:
+### Group 14 (case study 4): Firefox (https://www.firefox.com/)
+
+License:
+
+Benefits:
+
+Platform:
+### Group 15 (case study 5): Android (https://www.android-x86.org/)
+License:
+
+Benefits:
+
+Platform:
+### Group 16 (case study 1): Linux (https://www.linux.org/)
+
+License:
+
+Benefits:
+
+Platform:
+### Group 17 (case study 2): Arduino (https://www.arduino.cc/)
+
+License:
+
+Benefits:
+
+Platform:
+
+### Group 18 (case study 3): The Turing Way (https://book.the-turing-way.org/)
+License:
+
+Benefits:
+
+Platform:
+
+Other open source concepts and cases are below! If you want to, see if you can find the license type and the benefits an open source AI tool uses.
+
+Open Source Investigation (OSINT) (https://en.wikipedia.org/wiki/Open-source_intelligence) Open Source AI (https://github.com/thebigbone/opensourceAI) Farama Foundation (https://github.com/Farama-Foundation)
