@@ -24,7 +24,7 @@ License: Open licese - open source
 
 Benefits: Share and view pieces of work (education and professional work) 
 
-Platform: Github 
+Platform: Arduino
 
 ### Group 3 (case study 3): The Turing Way (https://book.the-turing-way.org/)
 License:
