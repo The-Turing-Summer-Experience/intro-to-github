@@ -9,6 +9,7 @@ Please refer to the checkin Issue that we commented on in Exercise 1 to find you
 1. What is the project’s license?
 2. Why do you think this license benefits this project?
 3. What platform do they host their code on?
+4. 
 
 ## Question: What have you learned about your case study:
 
