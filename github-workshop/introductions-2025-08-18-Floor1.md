@@ -140,6 +140,13 @@ Benefits:
 
 Platform:
 
+### Group 19 (presenter): PyPy
+License: MIT
+
+Benefits: 
+
+Platform
+
 Other open source concepts and cases are below! If you want to, see if you can find the license type and the benefits an open source AI tool uses.
 
 Open Source Investigation (OSINT) (https://en.wikipedia.org/wiki/Open-source_intelligence) Open Source AI (https://github.com/thebigbone/opensourceAI) Farama Foundation (https://github.com/Farama-Foundation)
