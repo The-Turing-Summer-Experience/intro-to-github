@@ -31,9 +31,9 @@ Group 3 (case study 3): The Turing Way (https://book.the-turing-way.org/)
 3. Platform: book
 
 Group 4 (case study 4): Firefox (https://www.firefox.com/)
-1. License: 
-2. Benefits:
-3. Platform:
+1. License: public license
+2. Benefits: trust from users, versatile usage, more visibility,access to resources 
+3. Platform: Github
 
 Group 5 (case study 5): Android (https://www.android-x86.org/)
 1. License: 
