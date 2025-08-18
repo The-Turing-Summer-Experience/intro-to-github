@@ -20,11 +20,11 @@ Benefits: A lot of people can use the operating system
 Platform: Github
 
 ### Group 2 (case study 2): Arduino (https://www.arduino.cc/)
-License:
+License: Open licese - open source 
 
-Benefits:
+Benefits: Share and view pieces of work (education and professional work) 
 
-Platform:
+Platform: Github 
 
 ### Group 3 (case study 3): The Turing Way (https://book.the-turing-way.org/)
 License:
