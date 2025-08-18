@@ -23,8 +23,8 @@ Group 2 (case study 2): Arduino (https://www.arduino.cc/)
 3. Platform:
 
 Group 3 (case study 3): The Turing Way (https://book.the-turing-way.org/)
-1. License: 
-2. Benefits:
+1. License: CC BY 
+2. Benefits: lets you remix, tweak ,and build upon original work.
 3. Platform:
 
 Group 4 (case study 4): Firefox (https://www.firefox.com/)
