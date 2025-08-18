@@ -120,11 +120,11 @@ Benefits:
 Platform:
 ### Group 16 (case study 1): Linux (https://www.linux.org/)
 
-License:
+License: open source
 
-Benefits:
+Benefits: free to edit so it is customisable 
 
-Platform:
+Platform: github
 ### Group 17 (case study 2): Arduino (https://www.arduino.cc/)
 
 License:
