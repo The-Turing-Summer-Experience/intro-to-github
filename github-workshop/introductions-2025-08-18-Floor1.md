@@ -13,11 +13,11 @@ What platform do they host their code on?
 ## Question: What have you learned about your case study:
 
 ### Group 1 (case study 1): Linux (https://www.linux.org/)
-License: Open license maybe it has MIT
+License: General Public Liscense (GPL)
 
-Benefits: A lot of people can use the operating system
+Benefits: Allows you to study and use the software without any restrictions.
 
-Platform: Github
+Platform: Linux Kernel
 
 ### Group 2 (case study 2): Arduino (https://www.arduino.cc/)
 License:
