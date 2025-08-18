@@ -33,12 +33,12 @@ Benefits:
 
 Platform:
 
-### Group 4 (case study 4): Firefox (https://www.firefox.com/)
-License:
+### Group 4 (case study 4): Firefox (https://www.firefox.com/) 🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🦅🦅🦅
+License: Mozilla Public License 2.0
 
-Benefits:
+Benefits: strong focus on user privacy and security, with extensive customisation options.      
 
-Platform:
+Platform: desktop environment
 
 ### Group 5 (case study 5): Android (https://www.android-x86.org/)
 
