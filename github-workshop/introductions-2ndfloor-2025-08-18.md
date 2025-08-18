@@ -33,9 +33,9 @@ Group 4 (case study 4): Firefox (https://www.firefox.com/)
 3. Platform:
 
 Group 5 (case study 5): Android (https://www.android-x86.org/)
-1. License: 
-2. Benefits:
-3. Platform:
+1. License: Apache License 2.0
+2. Benefits: Allows companies to edit the source code and then use their own different licence on the edited version.
+3. Platform: Self hosted, on their own Git server
 
 Group 6 (case study 6): Brave (https://brave.com/)
 1. License: 
