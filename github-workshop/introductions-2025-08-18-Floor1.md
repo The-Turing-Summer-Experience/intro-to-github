@@ -72,11 +72,11 @@ Benefits:
 Platform:
 ### Group 9 (case study 4): Firefox (https://www.firefox.com/)
 
-License:
+License: Mozilla Public License (Open source)
 
-Benefits:
+Benefits: Balancea both open source and proprietary integration of code for maximal collaboration by more types of developers
 
-Platform:
+Platform: Gecko rendering engine
 ### Group 10 (case study 5): Android (https://www.android-x86.org/)
 
 License:
