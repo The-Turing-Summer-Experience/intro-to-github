@@ -58,11 +58,11 @@ Platform:
 
 ### Group 7 (case study name 2): Arduino (https://www.arduino.cc/)
 
-License:
+License: Creative Commons 
 
-Benefits:
+Benefits: The Creative Commons license allows for use, modification and redistribution, and the point of an Arduino is that you buy it and modify it to fit your needs.
 
-Platform:
+Platform: Github
 ### Group 8 (case study 3): The Turing Way (https://book.the-turing-way.org/)
 
 License:
