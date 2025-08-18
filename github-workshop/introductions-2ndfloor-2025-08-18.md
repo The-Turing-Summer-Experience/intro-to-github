@@ -18,7 +18,7 @@ Group 1 (case study 1): Linux (https://www.linux.org/)
 3. Platform:
 
 Group 2 (case study 2): Arduino (https://www.arduino.cc/)
-1. License: 
+1. License: open source
 2. Benefits:
 3. Platform:
 
