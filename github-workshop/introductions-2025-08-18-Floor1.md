@@ -40,13 +40,14 @@ Benefits:
 
 Platform:
 
-### Group 5 (case study 5): Android (https://www.android-x86.org/)
+### Group 5 (case study 5): Android (https://www.android-x86.org/) (Done by Somaiyah and Khiera)
 
-License:
+License: Main project is open source // Some components are public license. Website is Copyright
 
-Benefits:
+Benefits: It helps them get support from open source
 
-Platform:
+Platform: Git server
+
 ### Group 6 (case study 1): Linux (https://www.linux.org/)
 
 License:
