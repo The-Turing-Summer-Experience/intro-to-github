@@ -49,11 +49,11 @@ Benefits:
 Platform:
 ### Group 6 (case study 1): Linux (https://www.linux.org/)
 
-License:
+License: They have the GNU General Public License Version 2.
 
-Benefits:
+Benefits: The source code is avaliable for anyone to use and improve.
 
-Platform:
+Platform: Kernel
 
 
 ### Group 7 (case study name 2): Arduino (https://www.arduino.cc/)
