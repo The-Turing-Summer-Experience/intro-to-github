@@ -39,7 +39,7 @@ Group 5 (case study 5): Android (https://www.android-x86.org/)
 3. Platform:
 
 Group 6 (case study 6): Brave (https://brave.com/)
-1. License: 
+1. License: MPL 2.0 
 2. Benefits:
 3. Platform:
    
