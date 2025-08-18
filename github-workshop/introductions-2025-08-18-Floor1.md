@@ -107,11 +107,11 @@ Benefits:
 Platform:
 ### Group 14 (case study 4): Firefox (https://www.firefox.com/)
 
-License:
+License: OPEN SOURCE LICENSE 
 
-Benefits:
+Benefits: greater customization, code can be changed and enhanced security
 
-Platform:
+Platform: Gecko Rendering Engine 
 ### Group 15 (case study 5): Android (https://www.android-x86.org/)
 License:
 
