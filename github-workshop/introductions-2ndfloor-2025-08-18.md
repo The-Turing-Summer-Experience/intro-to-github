@@ -37,10 +37,16 @@ Group 5 (case study 5): Android (https://www.android-x86.org/)
 2. Benefits:
 3. Platform:
 
+Group 6 (case study 6): Brave (https://brave.com/)
+1. License: 
+2. Benefits:
+3. Platform:
+   
 Bonus:
-Once you've finished with your case study, take a look at these broader open source concepts.
-If you want to, see if you can find the license type and the benefits an open source AI tool uses.
-
-Open Source Investigation (OSINT) (https://en.wikipedia.org/wiki/Open-source_intelligence)
-Open Source AI (https://github.com/thebigbone/opensourceAI)
-Farama Foundation (https://github.com/Farama-Foundation)
+Once you've finished with your case study, take a look at these broader open source concepts.  
+  
+If you want to, see if you can find the license type and the benefits an open source AI tool uses.  
+  
+- Open Source Investigation (OSINT) (https://en.wikipedia.org/wiki/Open-source_intelligence)  
+- Open Source AI (https://github.com/thebigbone/opensourceAI)  
+- Farama Foundation (https://github.com/Farama-Foundation)  
