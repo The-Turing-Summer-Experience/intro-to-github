@@ -41,9 +41,9 @@ Group 5 (case study 5): Android (https://www.android-x86.org/)
 3. Platform:
 
 Group 6 (case study 6): Brave (https://brave.com/)
-1. License: 
-2. Benefits:
-3. Platform:
+1. License: Mozilla Public License 2.0 (copyleft license)
+2. Benefits: the express grant of patent rights protects users against certain patent lawsuits from contributors; an additional benefit is the ability to combine MPL’d code with proprietary works
+3. Platform: Chromium web browser
    
 Bonus:
 Once you've finished with your case study, take a look at these broader open source concepts.  
