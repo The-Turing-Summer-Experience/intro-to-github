@@ -86,11 +86,11 @@ Benefits:
 Platform:
 ### Group 11 (case study 1): Linux (https://www.linux.org/)
 
-License:
+License: open source
 
-Benefits:
+Benefits: increased security, collaborative working
 
-Platform:
+Platform: Github
 ### Group 12 (case study 2): Arduino (https://www.arduino.cc/)
 
 License:
