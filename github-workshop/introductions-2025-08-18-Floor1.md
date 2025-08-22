@@ -27,11 +27,11 @@ Benefits: Share and view pieces of work (education and professional work)
 Platform: Arduino
 
 ### Group 3 (case study 3): The Turing Way (https://book.the-turing-way.org/)
-License:
+License: Open source
 
-Benefits:
+Benefits: Allows them to reuse and reproduce projects and information
 
-Platform:
+Platform: Github
 
 ### Group 4 (case study 4): Firefox (https://www.firefox.com/)
 License:
