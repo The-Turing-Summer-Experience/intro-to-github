@@ -100,11 +100,11 @@ Benefits:
 Platform:
 ### Group 13 (case study 3): The Turing Way (https://book.the-turing-way.org/)
 
-License:
+License: CC 4.0, Open license
 
-Benefits:
+Benefits: It allows content to be freely shared between data scientists and software engineers for joint collaboration, making sure information is freely available for educational purposes.
 
-Platform:
+Platform: Github, website hosted on MyST
 ### Group 14 (case study 4): Firefox (https://www.firefox.com/)
 
 License:
