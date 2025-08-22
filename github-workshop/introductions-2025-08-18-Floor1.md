@@ -20,11 +20,11 @@ Benefits: Allows you to study and use the software without any restrictions.
 Platform: Linux Kernel
 
 ### Group 2 (case study 2): Arduino (https://www.arduino.cc/)
-License:
+License: Open licese - open source 
 
-Benefits:
+Benefits: Share and view pieces of work (education and professional work) 
 
-Platform:
+Platform: Arduino
 
 ### Group 3 (case study 3): The Turing Way (https://book.the-turing-way.org/)
 License:
