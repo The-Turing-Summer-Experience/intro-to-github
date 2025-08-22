@@ -74,7 +74,7 @@ Platform:
 
 License: Mozilla Public License (Open source)
 
-Benefits: Balancea both open source and proprietary integration of code for maximal collaboration by more types of developers
+Benefits: Balance both open source and proprietary integration of code for maximal collaboration by more types of developers
 
 Platform: Gecko rendering engine
 ### Group 10 (case study 5): Android (https://www.android-x86.org/)
